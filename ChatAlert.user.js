@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Plays a sound when you get a chat message!
 // @author       MagicMarmot
-// @match        https://kick.com/magicmarmot/chatroom
+// @match        https://kick.com/USERNAME/chatroom
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kick.com
 // @grant        none
 // ==/UserScript==
