@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Plays a sound when you get a chat message!
-// @author       MagicMarmot
+// @author       https://kick.com/MagicMarmot
 // @match        https://kick.com/USERNAME/chatroom
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kick.com
 // @grant        none
